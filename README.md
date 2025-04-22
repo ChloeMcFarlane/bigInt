@@ -1,1 +1,1 @@
-This project addressea the limitations of Java's int data type for large integer representation by creating a BigInt class. I've designed a system to store and manipulate non-negative integers with up to 20 digits using an array-based digit representation
+This project addresses the limitations of Java's int data type for large integer representation by creating a BigInt class. I've designed a system to store and manipulate non-negative integers with up to 20 digits using an array-based digit representation
